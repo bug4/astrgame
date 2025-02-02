@@ -35,9 +35,9 @@ function App() {
             <Sparkles className="w-8 h-8 text-cyan-400" />
             <div>
               <h1 className="text-4xl font-bold bg-gradient-to-r from-cyan-400 via-blue-500 to-purple-500 bg-clip-text text-transparent">
-                ASTRO GAME
+                AERO GAME
               </h1>
-              <p className="text-sm text-cyan-200/60 tracking-widest mt-1">$ASTR</p>
+              <p className="text-sm text-cyan-200/60 tracking-widest mt-1">$AERO</p>
             </div>
           </div>
           <div className="mt-4 max-w-lg text-center bg-black/20 backdrop-blur-md p-4 rounded-xl border border-white/10">
@@ -111,7 +111,7 @@ function App() {
           {/* Social Links */}
           <div className="flex gap-4">
             <a 
-              href="https://x.com/AstroGameSOL" 
+              href="https://x.com/AEROGameSOL" 
               target="_blank" 
               rel="noopener noreferrer" 
               className="flex items-center gap-2 bg-black/20 backdrop-blur-md px-6 py-3 rounded-xl border border-white/10 text-cyan-400 hover:bg-white/5 transition-all group"
@@ -120,7 +120,7 @@ function App() {
               <span className="font-semibold">Twitter</span>
             </a>
             <a 
-              href="https://t.me/astrogamesol" 
+              href="https://t.me/" 
               target="_blank" 
               rel="noopener noreferrer" 
               className="flex items-center gap-2 bg-black/20 backdrop-blur-md px-6 py-3 rounded-xl border border-white/10 text-cyan-400 hover:bg-white/5 transition-all group"
@@ -132,13 +132,13 @@ function App() {
 
           {/* Buy Button */}
           <a 
-            href="https://pump.fun" 
+            href="https://dexscreener.com/solana" 
             target="_blank" 
             rel="noopener noreferrer" 
             className="group relative flex items-center gap-3 bg-gradient-to-r from-cyan-500 to-blue-500 px-8 py-4 rounded-xl text-white font-bold shadow-lg hover:shadow-cyan-500/20 transition-all hover:-translate-y-0.5"
           >
             <Coins className="w-6 h-6 group-hover:rotate-12 transition-transform" />
-            <span className="text-lg">Buy $ASTR</span>
+            <span className="text-lg">Buy $AERO</span>
             <ExternalLink className="w-5 h-5 group-hover:translate-x-1 transition-transform" />
             <div className="absolute inset-0 rounded-xl bg-gradient-to-r from-cyan-400 to-blue-400 blur-xl opacity-50 -z-10 group-hover:opacity-75 transition-opacity"></div>
           </a>
