@@ -132,7 +132,7 @@ function App() {
 
           {/* Buy Button */}
           <a 
-            href="https://dexscreener.com/solana" 
+            href="https://dexscreener.com/solana/c7i5ajrzcnsu68xgf8mxnh1jqodw3hjnmzoywhtsjjz2" 
             target="_blank" 
             rel="noopener noreferrer" 
             className="group relative flex items-center gap-3 bg-gradient-to-r from-cyan-500 to-blue-500 px-8 py-4 rounded-xl text-white font-bold shadow-lg hover:shadow-cyan-500/20 transition-all hover:-translate-y-0.5"
