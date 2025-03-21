@@ -111,7 +111,7 @@ function App() {
           {/* Social Links */}
           <div className="flex gap-4">
             <a 
-              href="https://x.com/AEROGameSOL" 
+              href="https://x.com/FillGame_BNB" 
               target="_blank" 
               rel="noopener noreferrer" 
               className="flex items-center gap-2 bg-black/20 backdrop-blur-md px-6 py-3 rounded-xl border border-white/10 text-cyan-400 hover:bg-white/5 transition-all group"
