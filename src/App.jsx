@@ -35,14 +35,14 @@ function App() {
             <Sparkles className="w-8 h-8 text-cyan-400" />
             <div>
               <h1 className="text-4xl font-bold bg-gradient-to-r from-cyan-400 via-blue-500 to-purple-500 bg-clip-text text-transparent">
-                AERO GAME
+                Fill GAME
               </h1>
-              <p className="text-sm text-cyan-200/60 tracking-widest mt-1">$AERO</p>
+              <p className="text-sm text-cyan-200/60 tracking-widest mt-1">$FILL</p>
             </div>
           </div>
           <div className="mt-4 max-w-lg text-center bg-black/20 backdrop-blur-md p-4 rounded-xl border border-white/10">
             <p className="text-cyan-200/80">
-              Embark on an epic space adventure! Collect crystals, dodge obstacles, and become the ultimate cosmic explorer in this thrilling play-to-earn experience on Solana.
+              Embark on an epic space adventure! Collect crystals, dodge obstacles, and become the ultimate cosmic explorer in this thrilling play-to-earn experience on BSC.
             </p>
           </div>
           {/* Decorative Elements */}
@@ -120,7 +120,7 @@ function App() {
               <span className="font-semibold">Twitter</span>
             </a>
             <a 
-              href="https://t.me/aerogamesolana" 
+              href="https://x.com/FillGame_BNB" 
               target="_blank" 
               rel="noopener noreferrer" 
               className="flex items-center gap-2 bg-black/20 backdrop-blur-md px-6 py-3 rounded-xl border border-white/10 text-cyan-400 hover:bg-white/5 transition-all group"
@@ -132,13 +132,13 @@ function App() {
 
           {/* Buy Button */}
           <a 
-            href="https://pump.fun/board" 
+            href="https://four.meme/" 
             target="_blank" 
             rel="noopener noreferrer" 
             className="group relative flex items-center gap-3 bg-gradient-to-r from-cyan-500 to-blue-500 px-8 py-4 rounded-xl text-white font-bold shadow-lg hover:shadow-cyan-500/20 transition-all hover:-translate-y-0.5"
           >
             <Coins className="w-6 h-6 group-hover:rotate-12 transition-transform" />
-            <span className="text-lg">Buy $AERO</span>
+            <span className="text-lg">Buy $FILL</span>
             <ExternalLink className="w-5 h-5 group-hover:translate-x-1 transition-transform" />
             <div className="absolute inset-0 rounded-xl bg-gradient-to-r from-cyan-400 to-blue-400 blur-xl opacity-50 -z-10 group-hover:opacity-75 transition-opacity"></div>
           </a>
