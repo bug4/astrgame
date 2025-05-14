@@ -111,7 +111,7 @@ function App() {
           {/* Social Links */}
           <div className="flex gap-4">
             <a 
-              href="https://x.com/GamesOnBelieve" 
+              href="https://x.com/BelieveAndGames" 
               target="_blank" 
               rel="noopener noreferrer" 
               className="flex items-center gap-2 bg-black/20 backdrop-blur-md px-6 py-3 rounded-xl border border-white/10 text-cyan-400 hover:bg-white/5 transition-all group"
@@ -120,7 +120,7 @@ function App() {
               <span className="font-semibold">Twitter</span>
             </a>
             <a 
-              href="https://t.me/gamesonbelieve" 
+              href="https://x.com/BelieveAndGames" 
               target="_blank" 
               rel="noopener noreferrer" 
               className="flex items-center gap-2 bg-black/20 backdrop-blur-md px-6 py-3 rounded-xl border border-white/10 text-cyan-400 hover:bg-white/5 transition-all group"
@@ -132,7 +132,7 @@ function App() {
 
           {/* Buy Button */}
           <a 
-            href="https://x.com/GamesOnBelieve" 
+            href="https://x.com/BelieveAndGames" 
             target="_blank" 
             rel="noopener noreferrer" 
             className="group relative flex items-center gap-3 bg-gradient-to-r from-cyan-500 to-blue-500 px-8 py-4 rounded-xl text-white font-bold shadow-lg hover:shadow-cyan-500/20 transition-all hover:-translate-y-0.5"
