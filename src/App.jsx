@@ -120,7 +120,7 @@ function App() {
               <span className="font-semibold">Twitter</span>
             </a>
             <a 
-              href="https://t.me/" 
+              href="https://t.me/gamesonbelieve" 
               target="_blank" 
               rel="noopener noreferrer" 
               className="flex items-center gap-2 bg-black/20 backdrop-blur-md px-6 py-3 rounded-xl border border-white/10 text-cyan-400 hover:bg-white/5 transition-all group"
