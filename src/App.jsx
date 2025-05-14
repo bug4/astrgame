@@ -18,7 +18,7 @@ function App() {
           <div className="relative flex flex-col items-center z-10 p-16">
             <Rocket className="w-16 h-16 text-cyan-400 animate-bounce" />
             <h2 className="mt-8 text-2xl font-bold bg-gradient-to-r from-cyan-400 to-blue-500 bg-clip-text text-transparent">
-              Loading Space
+              Loading Believe Games
             </h2>
             <div className="mt-4 flex items-center gap-2">
               <Loader2 className="w-5 h-5 text-cyan-400 animate-spin" />
